@@ -1,0 +1,15 @@
+/* 
+
+Theme name: Client2portfolio
+Description : child theme based on Twentyseventeen
+Author: Lakshmi
+Version: 1.0
+Template: Twentyseventeen
+
+*/
+@import url('../twentyseventeen/style.css');
+
+.page-title{
+
+	color: teal;
+}

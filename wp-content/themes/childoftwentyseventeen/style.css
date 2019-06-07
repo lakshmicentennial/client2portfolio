@@ -12,7 +12,13 @@ Template: Twentyseventeen
 .page-title{
 
 	color: teal;
+
 }
+site-content-contain {
+    background-color: #b0ddea;
+    position: relative;
+}
+
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans&display=swap');
 

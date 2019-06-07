@@ -19,6 +19,10 @@ site-content-contain {
     position: relative;
 }
 
+body.has-header-image .site-title a, body.has-header-video .site-title a {
+    color: #9C27B0;
+}
+
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans&display=swap');
 

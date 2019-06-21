@@ -19,9 +19,15 @@ body.has-header-image .site-title a, body.has-header-video .site-title a {
     color: #9C27B0;
 }
 
+
 .site-content-contain {
     background-color: #c3e9ec;
     position: relative;
+}
+
+.entry-full {
+
+	width: 100%;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Open+Sans&display=swap');
